@@ -1,0 +1,163 @@
+#container {
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border:2px solid blue;
+    height:1000px;
+    width:100%
+}
+#container #one {
+    height: 300px;
+    width: 200px;
+    background-color: lightblue;
+    border:2px solid blue;
+    color:red;
+    margin: 10px;
+    padding:10px;
+}
+#container #one span {
+    padding: 5px;
+}
+#container #two {
+    height: 300px;
+    width: 200px;
+    background-color: lightblue;
+    border:2px solid blue;
+    margin:10px;
+    padding:10px;
+    color:red;
+}
+
+#container #two span {
+    padding: 5px;
+}
+#container #three {
+    height: 300px;
+    width: 200px;
+    background-color: lightblue;
+    border:2px solid blue;
+    margin:10px;
+    padding:10px;
+    color:red;
+}
+
+#container #three span {
+    padding: 5px;
+}
+#container #four {
+    height: 300px;
+    width: 200px;
+    background-color: lightblue;
+    border:2px solid blue;
+    margin:10px;
+    padding:10px;
+    color:red;
+}
+
+#container #four span {
+    padding: 5px;
+}
+#container #five {
+    height: 400px;
+    width: 200px;
+    background-color: lightblue;
+    border:2px solid blue;
+    margin:10px;
+    padding:10px;
+    color:red;
+}
+
+#container #five span {
+    padding: 5px;
+}
+
+#container #six {
+    height: 300px;
+    width: 200px;
+    background-color: lightblue;
+    border:2px solid blue;
+    margin:10px;
+    padding:10px;
+    color:red;
+}
+
+#container #six span {
+    padding: 5px;
+}
+#container #seven {
+    height: 300px;
+    width: 200px;
+    background-color: lightblue;
+    border:2px solid blue;
+    margin:10px;
+    padding:10px;
+    color:red;
+}
+
+#container #seven span {
+    padding: 5px;
+}
+#container #eight {
+    height: 300px;
+    width: 200px;
+    background-color: lightblue;
+    border:2px solid blue;
+    margin:10px;
+    padding:10px;
+    color:red;
+}
+
+#container #eight span {
+    padding: 5px;
+}
+#container #nine {
+    height: 300px;
+    width: 200px;
+    background-color: lightblue;
+    border:2px solid blue;
+    margin:10px;
+    padding:10px;
+    color:red;
+}
+
+#container #nine span {
+    padding: 5px;
+}
+#container #ten {
+    height: 300px;
+    width: 200px;
+    background-color: lightblue;
+    border:2px solid blue;
+    margin:10px;
+    padding:10px;
+    color:red;
+}
+
+#container #ten span {
+    padding: 5px;
+}
+#container #eleven {
+    height: 300px;
+    width: 200px;
+    background-color: lightblue;
+    border:2px solid blue;
+    margin:10px;
+    padding:10px;
+    color:red;
+}
+#container #eleven span {
+    padding: 5px;
+}
+#container #twelve {
+    height: 300px;
+    width: 200px;
+    background-color: lightblue;
+    border:2px solid blue;
+    margin:10px;
+    padding:10px;
+    color:red;
+}
+
+#container #twelve span {
+    padding: 5px;
+}
